@@ -1,0 +1,390 @@
+{
+  "timestamp": "2026-01-21T19:34:15.837514",
+  "total_articles": 22,
+  "impact_breakdown": {
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "articles_by_impact": {
+    "high": [],
+    "medium": [],
+    "low": []
+  },
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google brings its AI videomaker to Workspace users",
+      "description": "Google is expanding access to its AI videomaking tool. Launched last May, Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, those with Business, Enterprise, and Education Workspace plans can access it, too. Flow uses Google…",
+      "url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-ai-flow.png?quality=90&strip=all&crop=0%2C1.7773491319923%2C100%2C96.445301736015&w=1200",
+      "publishedAt": "2026-01-16T19:37:52Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers across Workspace plans can now use Flow to create videos based on a text prompt or images.\r\nUsers across Workspace plans can now use Flow to create videos … [+2216 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Yi-Ling Liu",
+      "title": "Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All",
+      "description": "How the Cyberspace Administration of China inadvertently made a guide to the country’s homegrown AI revolution.",
+      "url": "https://www.wired.com/story/china-ai-boom-algorithm-registry/",
+      "urlToImage": "https://media.wired.com/photos/696686610ad2360ba658ec17/191:100/w_1280,c_limit/China_AI_registry_main.jpg",
+      "publishedAt": "2026-01-20T11:00:00Z",
+      "content": "When DeepSeek burst onto the global stage in January 2025, it seemed to appear out of nowhere. But the large language model was just one of the thousands of generative AI tools that have been release… [+6684 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Nvidia Proves It Still Has the Best Software for Better-Looking Games",
+      "description": "While 6x frame gen won’t be here until spring, better AI upscaling is more than welcome.",
+      "url": "https://gizmodo.com/nvidia-proves-it-still-has-the-best-software-for-better-looking-games-2000710251",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-11-1200x675.jpg",
+      "publishedAt": "2026-01-14T17:45:02Z",
+      "content": "Nvidias latest version of its Deep Learning Super Sampling technology, aka DLSS, hit the scene early Wednesday. With the latest update in tow comes a slightly redesigned upscaler that is now better t… [+4292 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Maya Posch",
+      "title": "Optimizing Software with Zero-Copy and Other Techniques",
+      "description": "An important aspect in software engineering is the ability to distinguish between premature, unnecessary, and necessary optimizations. A strong case can be made that the initial design benefits massively from …read more",
+      "url": "https://hackaday.com/2026/01/16/optimizing-software-with-zero-copy-and-other-techniques/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2019/09/ProgrammingSystem.jpg",
+      "publishedAt": "2026-01-16T15:00:55Z",
+      "content": "An important aspect in software engineering is the ability to distinguish between premature, unnecessary, and necessary optimizations. A strong case can be made that the initial design benefits massi… [+9478 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+      "title": "One UI 8.5 seemingly preps its most impactful performance update for Galaxy",
+      "description": "A leak reported that Samsung upgraded the kernel version of its One UI 8.5 software, which could bring a massive performance update for Galaxy.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-one-ui-8-5-could-offer-the-most-impactful-performance-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TnSftznBShisVRkjYUY3S5-2048-80.jpg",
+      "publishedAt": "2026-01-14T20:27:00Z",
+      "content": "What you need to know\r\n<ul><li>A tipster alleges that Samsung has pushed an update for its One UI 8.5 beta that upgrades its Android kernel version.</li><li>As a result, the post claims that One UI 8… [+2968 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Bezos's Vision of Rented Cloud PCs Looks Less Far-Fetched",
+      "description": "Amazon founder Jeff Bezos once told an audience that he views local PC hardware the same way he views a 100-year-old electric generator he saw in a brewery museum -- as a relic of a pre-grid era, destined to be replaced by centralized utilities that users sim…",
+      "url": "https://it.slashdot.org/story/26/01/14/1655234/bezoss-vision-of-rented-cloud-pcs-looks-less-far-fetched",
+      "urlToImage": "https://a.fsdn.com/sd/topics/cloud_64.png",
+      "publishedAt": "2026-01-14T16:55:00Z",
+      "content": "Amazon founder Jeff Bezos once told an audience that he views local PC hardware the same way he views a 100-year-old electric generator he saw in a brewery museum -- as a relic of a pre-grid era, des… [+1344 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
+      "title": "With GeForce Now, NVIDIA is building the cloud gaming service I've always wanted",
+      "description": "NVIDIA is making sure GeForce Now is available on just about every platform.",
+      "url": "https://www.androidcentral.com/accessories/smart-home/with-geforce-now-nvidia-is-building-the-cloud-gaming-service-ive-always-wanted",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HBgqZieQ5zYmd5yWUYGba8-2560-80.jpg",
+      "publishedAt": "2026-01-16T08:10:43Z",
+      "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nIn Hardwired, AC Senior Editor Harish Jonnalagadda delves into all things hardware, including phones, audio products, storage servers, and networki… [+3318 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Microsoft's Xbox Cloud Gaming May Soon Let You Stream Your Own Games for Free - If You Watch Ads",
+      "description": "Microsoft appears to be preparing an ad-supported tier for Xbox Cloud Gaming that would let players stream games they've purchased digitally without needing a Game Pass subscription, according to a Windows Central report citing sources familiar with the plans…",
+      "url": "https://games.slashdot.org/story/26/01/19/1842246/microsofts-xbox-cloud-gaming-may-soon-let-you-stream-your-own-games-for-free---if-you-watch-ads",
+      "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+      "publishedAt": "2026-01-19T18:45:00Z",
+      "content": "Microsoft appears to be preparing an ad-supported tier for Xbox Cloud Gaming that would let players stream games they've purchased digitally without needing a Game Pass subscription, according to a W… [+528 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "What Happens When PC Memory Prices Are Too Much to Handle?",
+      "description": "The world's largest PC maker tells us why the next PC you buy may be more premium or less powerful than ever.",
+      "url": "https://gizmodo.com/what-happens-when-pc-memory-prices-are-too-much-to-handle-2000710305",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Lenovo-ThinkBook-Plus-Gen-7-Auto-Twist-1-1200x675.jpg",
+      "publishedAt": "2026-01-14T20:15:07Z",
+      "content": "Despite the hit of President Donald Trumps boneheaded tariff scheme, the tumult of 2025, and rampant price fluctuations, laptops did alright in 2025. Unfortunately, 2026 will bear even less sunshine … [+8516 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aws.eu"
+      },
+      "author": null,
+      "title": "AWS European Sovereign Cloud",
+      "description": "The AWS European Sovereign Cloud is a new, independent cloud for Europe entirely located within the European Union (EU), designed to help customers meet their evolving sovereignty requirements.",
+      "url": "https://aws.eu/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-15T22:43:28Z",
+      "content": "The AWS European Sovereign Cloud is an independent cloud for Europe, designed to help public sector organisations and customers in highly regulated industries meet their evolving sovereignty needs. T… [+1226 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
+      "description": "OpenAI plans to focus on \"practical adoption\" of AI in 2026, according to a blog post from CFO Sarah Friar. As the company spends a huge amount of money on infrastructure, OpenAI is working on \"closing the gap\" on what AI can do and how people actually use it…",
+      "url": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "publishedAt": "2026-01-19T21:05:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAs the company spends a huge amount of money on infrastructure, OpenAI is working to close the gap on what AI can do and how people actually use it.\r\nAs the comp… [+3285 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Eugene Kim",
+      "title": "Inside Amazon's 'mind-blowing' plan to fix groceries and beat Walmart",
+      "description": "Internal documents show Amazon is reshaping its retail infrastructure to compete head-on with Walmart's Supercenter model.",
+      "url": "https://www.businessinsider.com/iamazon-fix-groceries-beat-walmart-2026-1",
+      "urlToImage": "https://i.insider.com/696a9164c58df2ecd5ccb228?width=1200&format=jpeg",
+      "publishedAt": "2026-01-20T10:00:01Z",
+      "content": "Getty Images; Alyssa Powell/BI\r\n<ul><li>Amazon is playing catch-up to Walmart in groceries.</li><li>Some of Amazon's new ideas mirror Walmart's strategies.</li><li>Amazon plans to double down on its … [+9103 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
+      "description": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world beyond.",
+      "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+      "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
+      "publishedAt": "2026-01-15T13:00:00Z",
+      "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA… [+3519 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bloomberg",
+      "title": "CoreWeave CEO Intrator on AI Demand, Infrastructure Strain and Skepticism",
+      "description": "CoreWeave CEO Michael Intrator discusses surging AI demand, infrastructure development, the company's biggest constraints and growing skepticism in the...",
+      "url": "https://finance.yahoo.com/video/coreweave-ceo-intrator-ai-demand-135240598.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uuc5tS0O28oHQ39BRQdf1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/7ecbb6816983761b5c59c153229f4dbf",
+      "publishedAt": "2026-01-20T13:52:40Z",
+      "content": "CoreWeave CEO Michael Intrator discusses surging AI demand, infrastructure development, the company's biggest constraints and growing skepticism in the sector. He speaks with Bloomberg Television on … [+68 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
+      "description": "The Trump administration and a bipartisan group of governors are pressuring the PJM Interconnection, the biggest electricity market in the US, to hold a power auction meant to spur a massive buildout of new power plants. Together, they're \"urging\" PJM to hold…",
+      "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2243421135.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2026-01-16T20:51:18Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre calling for an emergency power auction.\r\nTheyre calling for an emergency power auction.\r\nby\r\nJustine CalmaClose\r\nPosts from this author will be added to y… [+3504 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shuting down",
+      "description": "Microsoft released its first security update of 2026 for Windows 11 on January 13th. Just four days later, it was forced to release an emergency out-of-band update to fix some pretty serious bugs, the first one introduced. The security patch was stopping some…",
+      "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-01-18T16:46:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThankfully theres an emergency fix already available.\r\nThankfully theres an emergency fix already available.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w… [+2027 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+      "description": "Several Bluetooth audio devices from companies like Sony, Anker, and Nothing are susceptible to a new flaw that can allow attackers to listen in on conversations or track devices that use Google's Find Hub network, as reported by Wired. Researchers from KU Le…",
+      "url": "https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-01-16T14:13:55Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nResearchers say the issue can allow attackers to listen to the mics on wireless audio devices, or track their location.\r\nResearchers say the issue can allow atta… [+5367 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Minister 'confident' issues over Hillsborough Law can be resolved",
+      "description": "Campaigners say the proposed law does not go far enough to make security services to cooperate with inquiries.",
+      "url": "https://www.bbc.com/news/articles/c5yvldj47v9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fa7d/live/fd16c770-f468-11f0-a0d3-85939bf94401.jpg",
+      "publishedAt": "2026-01-18T13:28:25Z",
+      "content": "Becky MortonPolitical reporter\r\nCulture Secretary Lisa Nandy has said she is confident disagreements with campaigners over a new law designed to stop cover-ups can be resolved before it returns to Pa… [+4255 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Torpey",
+      "title": "The Disclosure of Aliens Could Cause a Bitcoin Rush, Former Bank of England Analyst Says",
+      "description": "She warned of \"extreme price volatility in financial markets due to catastrophising or euphoria, and a collapse in confidence.\"",
+      "url": "https://gizmodo.com/the-disclosure-of-aliens-could-cause-a-bitcoin-rush-former-bank-of-england-analyst-says-2000711471",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/pentagon-uap-ufo-1200x675.jpg",
+      "publishedAt": "2026-01-18T18:22:11Z",
+      "content": "According to the Sunday Times, a former analyst at the Bank of England (BoE), which is the central bank of the United Kingdom, has written to the banks governor, Andrew Bailey, regarding the need to … [+4039 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Finance Video",
+      "title": "Dell, Intel, DraftKings: Top analyst calls today",
+      "description": "Yahoo Finance Senior Reporter Brooke DiPalma outlines some of Wall Street's top analyst calls today: Dell Technologies (DELL), Intel (INTC), and DraftKings (...",
+      "url": "https://finance.yahoo.com/video/dell-intel-draftkings-top-analyst-155706146.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HlvhRV2MLBNvSAFb0bCjqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/a41b3c20-f227-11f0-b946-52be221690f7",
+      "publishedAt": "2026-01-15T15:57:06Z",
+      "content": "Let's turn now to some of today's top analyst calls on Wall Street. We're watching Dell, Intel as well as DraftKings this morning. \r\nFirst up, Dell, Barclays upgraded the stock from equal weight to o… [+1183 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bob Karr",
+      "title": "Mizuho Raises PT on NVIDIA (NVDA) Stock",
+      "description": "NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Fundamental Stocks to Buy According to Analysts. On January 9, Mizuho analyst Vijay Rakesh lifted the...",
+      "url": "https://finance.yahoo.com/news/mizuho-raises-pt-nvidia-nvda-175302588.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "publishedAt": "2026-01-14T17:53:02Z",
+      "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Fundamental Stocks to Buy According to Analysts.On January 9, Mizuho analyst Vijay Rakesh lifted the price objective on NVIDIA Corporation (NASDAQ:… [+1481 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan",
+      "title": "Russia could face costly write-offs in Venezuela on its oil assets and arms loans, think tank analyst says",
+      "description": "Western sanctions and weak oil prices are already squeezing Russia's coffers, pressuring funds used to sustain the war and the broader economy.",
+      "url": "https://www.businessinsider.com/russia-economy-venezuela-oil-assets-arms-loans-write-offs-maduro-2026-1",
+      "urlToImage": "https://i.insider.com/6968580464858d02d218634f?width=1200&format=jpeg",
+      "publishedAt": "2026-01-15T05:23:15Z",
+      "content": "Russian President Vladimir Putin.Mikhail Metzel/Pool/ AFP/Getty Images\r\n<ul><li>US military action in Venezuela puts Russia's investments and long-standing ties with Caracas at risk.</li><li>Russian … [+2301 chars]",
+      "summary": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "business_impact": "UNKNOWN",
+      "impact_explanation": "Processing error",
+      "key_takeaways": []
+    }
+  ]
+}
