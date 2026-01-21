@@ -39,12 +39,12 @@ After creating the repo on GitHub:
 
 **Secret #1:**
 - Name: `OPENAI_API_KEY`
-- Value: `sk-proj-h9DRkbBDBc8JYmOwBdO5HTryVeAwRdO5HTryVeAwRzI3I4TPzQnMcIFWcjSb4bk1f28NLslmVvcPcaVDH6v6CpT3BlbkFJgvCM-XQZwAAln0QnnRKyFTTA3XFKR9GEp2yh6Ikat3-m9jI3IoEJ1LD-UtDu_LFFxZiSkjgPgA`
+- Value: Your OpenAI API key (starts with sk-proj-)
 - Click: **Add secret**
 
 **Secret #2:**
 - Name: `NEWS_API_KEY`
-- Value: `98ce48fbcbe14a20b3b184cefcedce06`
+- Value: Your NewsAPI key
 - Click: **Add secret**
 
 ### Step 3: Push Code to GitHub 📤
